@@ -1,0 +1,26 @@
+# Object files
+*.o
+*.obj
+
+# Compiled executables
+openaptxenc
+openaptxdec
+
+# Symlinks to header files
+openaptx.h
+
+# Build directories
+build/
+bin/
+obj/
+
+# Editor and IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
